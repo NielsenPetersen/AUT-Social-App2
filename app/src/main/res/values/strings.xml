@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Social App AUT</string>
+    <string name="email_aut">Email (AUT)</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="register_here">REGISTER HERE</string>
+    <string name="student_id">Student ID</string>
+    <string name="auckland_city">AUCKLAND (CITY)</string>
+    <string name="manukau_south">MANUKAU (SOUTH)</string>
+    <string name="northcote_north">NORTHCOTE (NORTH)</string>
+    <string name="aut_email_address">AUT Email Address</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="password2">Password</string>
+    <string name="student_id2">Student ID</string>
+    <string name="title_activity_drink_menu">DrinkMenu</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="menu">Menu</string>
+    <string name="home">Home Screen</string>
+    <string name="register">Register AUT Account</string>
+    <string name="campus">Select AUT Campus</string>
+    <string name="AUT_Social">Social AUT App Login</string>
+    <string name="title_activity_nav">NavActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="foodnbar">Food or Beverages</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_drink_item_menu">DrinkItemMenuActivity</string>
+
+</resources>
